@@ -34,7 +34,3 @@ Let's connect! Whether you're looking for collaboration on a project or just wan
  
 - **Email**: [jovan.celikovic@noseryoung.com](mailto:jovan.celikovic@noseryoung.com)
  
-## 🤝 Let's Connect!
- 
-I'm always excited to meet fellow developers and tech enthusiasts. If you have an idea, a project, or just want to chat about technology, feel free to reach out to me. Together, we can explore new horizons and build something amazing!
- 
