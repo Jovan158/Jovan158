@@ -41,6 +41,6 @@ I have applied my knowledge in real-world projects, ranging from web application
  
 ## 📫 How to Reach Me
  
--**E-Mail**  [jovan.celikovic@noseryoung.com](mailto:jovan.celikovic@noseryoung.com)
+- **E-Mail**  [jovan.celikovic@noseryoung.com](mailto:jovan.celikovic@noseryoung.com)
 
  
