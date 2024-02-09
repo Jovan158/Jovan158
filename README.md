@@ -30,5 +30,6 @@ I have applied my knowledge in real-world projects, ranging from web application
  
 ## 📫 How to Reach Me
  
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.celikovic@noseryoung.com)
+
  
