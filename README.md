@@ -6,7 +6,6 @@ Welcome to my GitHub profile! As a programming apprentice with a vast knowledge 
  
 I have a solid foundation in multiple programming languages, allowing me to tackle a wide range of projects and challenges:
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/>
