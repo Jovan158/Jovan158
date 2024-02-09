@@ -3,8 +3,6 @@
 Welcome to my GitHub profile! As a programming apprentice with a vast knowledge of programming languages, I'm passionate about leveraging my skills to build innovative solutions and contribute to open-source projects. My journey in tech is fueled by a relentless curiosity and a desire to make a difference through code.
  
 ## 💻 Programming Languages I Know
- 
-I have a solid foundation in multiple programming languages, allowing me to tackle a wide range of projects and challenges:
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
