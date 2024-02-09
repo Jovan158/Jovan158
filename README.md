@@ -30,7 +30,5 @@ I have applied my knowledge in real-world projects, ranging from web application
  
 ## 📫 How to Reach Me
  
-Let's connect! Whether you're looking for collaboration on a project or just want to exchange ideas, I'm open to new opportunities:
- 
-- **Email**: [jovan.celikovic@noseryoung.com](mailto:jovan.celikovic@noseryoung.com)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
  
