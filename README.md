@@ -30,6 +30,6 @@ I have applied my knowledge in real-world projects, ranging from web application
  
 ## 📫 How to Reach Me
  
-- **Email**: [your-email@example.com](mailto:jovan.celikovic@noseryoung.com)
+-  [**Email**](mailto:jovan.celikovic@noseryoung.com)
 
  
