@@ -1,4 +1,4 @@
-# {gifs/wave} Hi, I'm Jovan!
+# ![Wave Gif](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/Wave.gif) Hi, I'm Jovan!
  
 ## 💻 Programming Languages I Know
 
@@ -34,3 +34,5 @@
 
 
 ## 📖 What I'm learning currently
+ <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="Pfad/zum/deinem/spring-boot-logo.svg" alt="spring-boot" width="40" height="40"/>
