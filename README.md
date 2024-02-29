@@ -34,5 +34,6 @@
 
 
 ## 📖 What I'm learning currently
- <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://spring.io/images/projects/spring-framework-640ad1b04f734e96e048c7d5e5f42956.svg" alt="spring-boot" width="40" height="40"/>
+  </a>
