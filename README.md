@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jovan!
+# {gifs/wave} Hi, I'm Jovan!
  
 ## 💻 Programming Languages I Know
 
