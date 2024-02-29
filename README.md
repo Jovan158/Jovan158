@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Jovan!
  
-Welcome to my GitHub profile! As a programming apprentice with a vast knowledge of programming languages, I'm passionate about leveraging my skills to build innovative solutions and contribute to open-source projects. My journey in tech is fueled by a relentless curiosity and a desire to make a difference through code.
- 
 ## 💻 Programming Languages I Know
 
 <p align="left">
@@ -35,16 +33,4 @@ Welcome to my GitHub profile! As a programming apprentice with a vast knowledge 
 </p>
 
 
- 
-## 🚀 Projects
- 
-I have applied my knowledge in real-world projects, ranging from web applications to automation tools. Here are a few highlights:
- 
-- **Sushi Takeaway Website**: Developed a website for a sushi takeaway.
-- **VroomVroom Car API**: Created an API for VroomVroom car rentals.
- 
-## 📫 How to Reach Me
- 
-- **E-Mail**  [jovan.celikovic@noseryoung.com](mailto:jovan.celikovic@noseryoung.com)
-
- 
+## 📖 What I'm learning currently
