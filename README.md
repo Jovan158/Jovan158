@@ -2,7 +2,7 @@
 
 
  
-<h3 align="left">Programming Languages I Know:</h3>
+<h3 align="left">Programming Languages I Know</h3>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -32,7 +32,7 @@
 </p>
 
 
-<h3 align="left">What I'm currently Learning:</h3>
+<h3 align="left">What I'm currently Learning</h3>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/>
   </a>
