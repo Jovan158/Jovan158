@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jovan</h1>
 <h3 align="center">An apprentice with a passion for programming</h3>
 
+- 📧 How to contact me: **jovan.celikovic@noseryoung.com** 
  
 <h3 align="left">Programming Languages I Know</h3>
 
@@ -33,5 +34,3 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
-
-- 📧 How to contact me: **jovan.celikovic@noseryoung.com** 
