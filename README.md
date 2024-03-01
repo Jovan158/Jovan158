@@ -1,10 +1,17 @@
 <h1 align="center">👋 Hi, I'm Jovan</h1>
+<h3 align="center">An apprentice with a passion for programming.</h3>
 
+
+- 📧 How to reach me
+  **jovan.celikovic@noseryoung.com**
 
  
 <h3 align="left">Programming Languages I Know</h3>
 
 <p align="left">
+   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -31,8 +38,3 @@
   </a>
 </p>
 
-
-<h3 align="left">What I'm Currently Learning</h3>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/>
-  </a>
