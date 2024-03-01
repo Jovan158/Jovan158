@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jovan</h1>
 <h3 align="center">An apprentice with a passion for programming</h3>
 
-- 🚀 My Projects: **VroomVroomCarAPI** and **LittleBambus Sushi Takeaway**
+- 🚀 My Projects: **VroomVroomCarAPI** and **LittleBambus Sushi Takeaway Website**
 
 - 📧 How to contact me: **jovan.celikovic@noseryoung.com**
 
