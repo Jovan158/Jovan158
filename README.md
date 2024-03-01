@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Jovan</h1>
-<h2 align="left">An apprentice with a passion for programming</h2>
+<h3 align="center">An apprentice with a passion for programming</h3>
 
-<h3 align="left">📧 How to reach me</h3>
-**jovan.celikovic@noseryoung.com**
+<h3 align="center">📧 How to reach me</h3>
+<h4 align="center">jovan.celikovic@noseryoung.com</h4>
 
  
 <h3 align="left">Programming Languages I Know</h3>
