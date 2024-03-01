@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jovan</h1>
 <h3 align="center">An apprentice with a passion for programming</h3>
 
-<h3 align="left">📧 Lets Connect: jovan.celikovic@noseryoung.com</h3> 
+- 📧 How to contact me: **jovan.celikovic@noseryoung.com** 
 
  
 <h3 align="left">Programming Languages I Know</h3>
