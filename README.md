@@ -2,7 +2,7 @@
 <h3 align="left">An apprentice with a passion for programming</h3>
 
 <h3 align="left">📧 How to reach me</h3>
-- jovan.celikovic@noseryoung.com
+**jovan.celikovic@noseryoung.com**
 
  
 <h3 align="left">Programming Languages I Know</h3>
