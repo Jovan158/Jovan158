@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jovan</h1>
-<h3 align="left">An apprentice with a passion for programming</h3>
+<h2 align="left">An apprentice with a passion for programming</h2>
 
 <h3 align="left">📧 How to reach me</h3>
 **jovan.celikovic@noseryoung.com**
