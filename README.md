@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Jovan</h1>
 <h3 align="center">An apprentice with a passion for programming</h3>
 
-- 📧 How to contact me: **jovan.celikovic@noseryoung.com**
-
 <h3 align="left">What I'm Currently Learning</h3>
    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/>
@@ -33,3 +31,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
+
+- 📧 How to contact me: **jovan.celikovic@noseryoung.com**
