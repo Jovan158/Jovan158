@@ -33,4 +33,6 @@
 </p>
 
 
-📧 How to contact me: **jovan.celikovic@noseryoung.com**
+<h3 align="left"> 📧 How to contact me </h3>h3> 
+
+**jovan.celikovic@noseryoung.com**
