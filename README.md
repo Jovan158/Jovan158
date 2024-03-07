@@ -33,6 +33,6 @@
 </p>
 
 
-<h3 align="left">How to contact me</h3>
+<h3 align="left">How to reach me</h3>
 
 **jovan.celikovic@noseryoung.com**
