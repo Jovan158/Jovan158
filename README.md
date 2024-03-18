@@ -45,8 +45,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div><br>
-
-
-<div align="center">
-<img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jovan158&theme=github_dark" alt="Jovan's GitHub Stats"/>
-</div>
